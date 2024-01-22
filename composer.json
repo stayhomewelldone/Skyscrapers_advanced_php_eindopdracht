@@ -1,0 +1,26 @@
+{
+    "name": "jafir/skyscraper_collection",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "stayhomewelldone",
+            "email": "0973013@hr.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Buildings\\": "app/classes"
+        },
+        "classmap": ["src"],
+        "files": [
+            "app/config/settings.php",
+            "app/config/routes.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10",
+        "phpstan/phpstan": "^1.10",
+        "friendsofphp/php-cs-fixer": "^3.48"
+    }
+}

@@ -1,0 +1,8 @@
+[20-01-2024 19:13] Undefined variable $totalUsages on line 32 of C:\xampp\htdocs\advanced\eindopdracht\app\templates\usage\index.php
+[20-01-2024 19:17] Undefined variable $usage on line 40 of C:\xampp\htdocs\advanced\eindopdracht\app\templates\usage\index.php
+[20-01-2024 19:17] Undefined variable $usage on line 40 of C:\xampp\htdocs\advanced\eindopdracht\app\templates\usage\index.php
+[20-01-2024 19:34] Undefined property: Buildings\Databases\Objects\Usage::$usage_id on line 40 of C:\xampp\htdocs\advanced\eindopdracht\app\templates\usage\index.php
+[20-01-2024 19:41] Undefined variable $usage on line 17 of C:\xampp\htdocs\advanced\eindopdracht\app\templates\usage\delete.php
+[20-01-2024 19:47] Undefined variable $usage on line 17 of C:\xampp\htdocs\advanced\eindopdracht\app\templates\usage\delete.php
+[20-01-2024 19:47] Undefined variable $usage on line 30 of C:\xampp\htdocs\advanced\eindopdracht\app\templates\usage\create.php
+[21-01-2024 19:39] Exceeded filesize limit. on line 38 of C:\xampp\htdocs\advanced\eindopdracht\app\classes\Utils\Image.php
